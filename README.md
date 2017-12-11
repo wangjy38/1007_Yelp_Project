@@ -22,4 +22,4 @@ Using Yelp’s Fusion API to fetch data of restaurants by certain categories and
 With packages including Pandas, Matplotlib and Numpy, we extract their locations and use Ipywidgets and Gmap to plot their locations on a Google map. Besides, we use Pygal to plot an interactive pie graph of these restaurants’ rating percentages
 Pygal library was utilized to visualize the relationships between NYC restaurant’s price levels, ratings, and food cuisines. The data used to plot were summarized by Pandas groupby functions. 
 
-updated at: Dec 10th 2017
+Last updated: Dec 10th 2017
