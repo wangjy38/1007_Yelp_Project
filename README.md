@@ -10,12 +10,12 @@ New York City is a world food bank. According to National Restaurant's survey co
 #### Problem Formulation: 
 
 Visualization: 
-Pin restaurant locations on Google map and briefly show restaurant profile in Jupyter Notebook using gmap library
-Create interactive interface in Jupyter Notebook which allows users to select restaurant by cuisines, business status (opening/closing), and price levels
-Visualize the relationships between NYC restaurant’s price levels, ratings, and food cuisines with various plot styles using pygal[2]
+* Pin restaurant locations on Google map and briefly show restaurant profile in Jupyter Notebook using gmap library
+* Create interactive interface in Jupyter Notebook which allows users to select restaurant by cuisines, business status (opening/closing), and price levels
+* Visualize the relationships between NYC restaurant’s price levels, ratings, and food cuisines with various plot styles using pygal[2]
 
 Analysis: 
-Give interpretation on each graph to unfold the relationship between price levels, ratings, and good categories. 
+* Give interpretation on each graph to unfold the relationship between price levels, ratings, and good categories. 
  
 ### II. METHODOLOGY
 1. Using Yelp’s Fusion API to fetch data of restaurants by certain categories and store it in a dataframe. 
