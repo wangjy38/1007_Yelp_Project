@@ -15,7 +15,7 @@ Visualization:
 * Visualize the relationships between NYC restaurant’s price levels, ratings, and food cuisines with various plot styles using pygal[2]
 
 Analysis: 
-* Give interpretation on each graph to unfold the relationship between price levels, ratings, and good categories. 
+* Give interpretation on each graph to unfold the relationship between price levels, ratings, and food categories 
  
 ### II. METHODOLOGY
 1. Using Yelp’s Fusion API to fetch data of restaurants by certain categories and store it in a dataframe. 
