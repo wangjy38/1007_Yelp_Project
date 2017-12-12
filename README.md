@@ -29,4 +29,4 @@ Analysis:
 
 [2] Pbugnion. Pbugnion/Gmaps. GitHub, 11 Nov. 2017, github.com/pbugnion/gmaps./
 
-Last updated: Dec 10th 2017
+Last updated: Dec 12th 2017
