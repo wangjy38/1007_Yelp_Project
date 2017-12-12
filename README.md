@@ -24,8 +24,9 @@ Analysis:
 
 3. Pygal library was utilized to visualize the relationships between NYC restaurant’s price levels, ratings, and food cuisines. The data used to plot were summarized by Pandas groupby functions. 
 
-References:
+#### References:
 [1] New York restaurant industry at a glance. (n.d.). Retrieved December 08, 2017, from http://www.restaurant.org/Downloads/PDFs/State-Statistics/
+
 [2] Pbugnion. Pbugnion/Gmaps. GitHub, 11 Nov. 2017, github.com/pbugnion/gmaps./
 
 Last updated: Dec 10th 2017
