@@ -1,4 +1,4 @@
-# Visualization and Analysis on NYC Restaurant Yelp Ratings by Price Level, Cuisine Category, and Location
+## Visualization and Analysis on NYC Restaurant Yelp Ratings by Price Level, Cuisine Category, and Location
 Hetian Bai (hb1500), Jieyu Wang (jw4937), Zhiming Guo (zg758)
 
 ### Abstract 
